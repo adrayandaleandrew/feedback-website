@@ -8,5 +8,9 @@ Goal of this simple project is for me have a knowledge about:
 - Connecting each pages to the database using phpmyadmin.
 - Form validation and add user input data to the database using PHP and phpmyadmin.
 
-## NOTE: Not implemented in a hosting site.
-### To use this project or to test please fork the repo, use XAMPP and create the db in phpmyadmin 
+## How to setup on your local machine
+To test this project locally. ## Fork or clone the repo and do the following:
+
+- Download and install XAMPP or LAMP.
+- Run apache server and SQL under XAMPP.
+- Create the db in phpmyadmin ( make sure the database name is similar on what is stated on the database config php ). 
