@@ -9,7 +9,7 @@ Goal of this simple project is for me have a knowledge about:
 - Form validation and add user input data to the database using PHP and phpmyadmin.
 
 ## How to setup on your local machine
-To test this project locally. ## Fork or clone the repo and do the following:
+To test this project locally. Fork or clone the repo and do the following:
 
 - Download and install XAMPP or LAMP.
 - Run apache server and SQL under XAMPP.
